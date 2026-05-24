@@ -43,19 +43,21 @@ Java Full Stack Developer • AI Enthusiast • System Design Learner
 
 ## 🔥 Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=AI-Codebase-Navigator&theme=tokyonight)](https://github.com/YOUR_GITHUB_USERNAME/AI-Codebase-Navigator)
+<p align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=GFG_WEB-Scraper&theme=tokyonight)](https://github.com/YOUR_GITHUB_USERNAME/GFG_WEB-Scraper)
+<a href="https://github.com/Chetan-Kiran/AI-Codebase-Navigator">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chetan-Kiran&repo=AI-Codebase-Navigator&theme=tokyonight"/>
+</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=portfolio&theme=tokyonight)]([https://github.com/YOUR_GITHUB_USERNAME/portfolio](https://github.com/Chetan-Kiran/portfolio))
+<a href="https://github.com/Chetan-Kiran/GFG_WEB-Scraper">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chetan-Kiran&repo=GFG_WEB-Scraper&theme=tokyonight"/>
+</a>
 
-## 🔥 Featured Projects
+<a href="https://github.com/Chetan-Kiran/portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chetan-Kiran&repo=portfolio&theme=tokyonight"/>
+</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chetan-Kiran&repo=AI-Codebase-Navigator&theme=tokyonight)](https://github.com/Chetan-Kiran/AI-Codebase-Navigator)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chetan-Kiran&repo=GFG_WEB-Scraper&theme=tokyonight)](https://github.com/Chetan-Kiran/GFG_WEB-Scraper)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chetan-Kiran&repo=portfolio&theme=tokyonight)](https://github.com/Chetan-Kiran/portfolio)
+</p>
 
 ---
 
