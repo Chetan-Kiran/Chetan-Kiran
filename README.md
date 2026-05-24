@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋 I'm Chetan Kiran
 
-<!--
-**Chetan-Kiran/Chetan-Kiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Java Full Stack Developer
+💻 Passionate about System Design, AI, Backend
+🌱 Currently learning: Distributed Systems
 
-Here are some ideas to get you started:
+## Tech Stack
+Java | Spring Boot | React | MySQL | Docker | AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+🔥 AI Codebase Navigator
+🔥 GFG Web Scraper
+🔥 Portfolio Website
+
+## GitHub Stats
+(stats badges)
+
+## Connect
+LinkedIn | Portfolio | Email
