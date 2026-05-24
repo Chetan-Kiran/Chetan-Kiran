@@ -47,7 +47,7 @@ Java Full Stack Developer • AI Enthusiast • System Design Learner
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=GFG_WEB-Scraper&theme=tokyonight)](https://github.com/YOUR_GITHUB_USERNAME/GFG_WEB-Scraper)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=portfolio&theme=tokyonight)](https://github.com/YOUR_GITHUB_USERNAME/portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=portfolio&theme=tokyonight)]([https://github.com/YOUR_GITHUB_USERNAME/portfolio](https://github.com/Chetan-Kiran/portfolio))
 
 ---
 
