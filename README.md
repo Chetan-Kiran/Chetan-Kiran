@@ -1,76 +1,78 @@
 <h1 align="center">Hi 👋, I'm Chetan Kiran</h1>
-<h3 align="center">Java Full Stack Developer • AI Enthusiast • System Design Learner</h3>
+
+<h3 align="center">
+Java Full Stack Developer • AI Enthusiast • System Design Learner
+</h3>
 
 <p align="center">
-Building scalable apps, exploring AI, and solving real-world problems.
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;AI+Builder;System+Design+Explorer;Building+Real+World+Projects+🚀;Learning+Distributed+Systems)](https://git.io/typing-svg)
+
+</p>
+
+---
+
+<p align="center">
+<img src="YOUR_BANNER_LINK_HERE" width="100%">
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Java Full Stack Developer
-- 🧠 Interested in **System Design, AI, Distributed Systems**
-- 🌱 Currently learning **Cloud, Docker, Scalable Architecture**
-- ⚡ Love building projects beyond CRUD apps
+💻 Java Full Stack Developer
+
+🧠 Passionate about **AI, Backend Engineering, System Design**
+
+🌱 Currently learning **Cloud, Docker, Distributed Systems**
+
+⚡ Building projects beyond simple CRUD applications
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-
-### Backend
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
-
-### Frontend
+![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-
-### Database & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🧠 AI Codebase Navigator
-AI-powered repository understanding tool.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=AI-Codebase-Navigator&theme=tokyonight)](https://github.com/YOUR_GITHUB_USERNAME/AI-Codebase-Navigator)
 
-**Tech:** Java • AI • Semantic Search
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=GFG_WEB-Scraper&theme=tokyonight)](https://github.com/YOUR_GITHUB_USERNAME/GFG_WEB-Scraper)
 
-### 📚 GFG Web Scraper
-Automated GeeksforGeeks scraping system.
-
-**Tech:** Java • Jsoup
-
-### 🌐 Portfolio Website
-Modern responsive portfolio.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=portfolio&theme=tokyonight)](https://github.com/YOUR_GITHUB_USERNAME/portfolio)
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Analytics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
 
----
-
-## 🏗️ Current Goals
-
-✔ Master Spring Boot  
-✔ Learn Advanced System Design  
-✔ Build Production-grade Projects
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)]()
 
 ---
 
 ## 📫 Connect With Me
 
-LinkedIn: YOUR_LINK
+💼 LinkedIn
 
-Portfolio: YOUR_LINK
+https://www.linkedin.com/in/chetan-kiran-b7263731b
 
-Email: YOUR_EMAIL
+🌐 Portfolio
+
+https://chetankiran-portfolio.netlify.app/
+
+📧 Email
+
+chetankiranstd@gmail.com
+
+---
