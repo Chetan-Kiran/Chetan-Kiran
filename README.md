@@ -46,15 +46,15 @@ Java Full Stack Developer • AI Enthusiast • System Design Learner
 <p align="center">
 
 <a href="https://github.com/Chetan-Kiran/AI-Codebase-Navigator">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chetan-Kiran&repo=AI-Codebase-Navigator&theme=tokyonight"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Chetan-Kiran&repo=AI-Codebase-Navigator&theme=tokyonight"/>
 </a>
 
 <a href="https://github.com/Chetan-Kiran/GFG_WEB-Scraper">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chetan-Kiran&repo=GFG_WEB-Scraper&theme=tokyonight"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Chetan-Kiran&repo=GFG_WEB-Scraper&theme=tokyonight"/>
 </a>
 
 <a href="https://github.com/Chetan-Kiran/portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chetan-Kiran&repo=portfolio&theme=tokyonight"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Chetan-Kiran&repo=portfolio&theme=tokyonight"/>
 </a>
 
 </p>
@@ -63,11 +63,7 @@ Java Full Stack Developer • AI Enthusiast • System Design Learner
 
 ## 📈 GitHub Analytics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)]()
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chetan-kiran&theme=tokyo-night)]()
 
 ---
 
