@@ -30,14 +30,26 @@ Java Full Stack Developer • AI Enthusiast • System Design Learner
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+<div align="center">
+
+### Languages & Core Skills
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css&perline=6" alt="Languages"/>
+</p>
+
+### Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,react,bootstrap,fastapi,nestjs&perline=6" alt="Frameworks"/>
+</p>
+
+### Cloud, Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,aws,vercel,netlify,figma&perline=6" alt="Tools"/>
+</p>
+
+</div>
 
 
 ## 📈 GitHub Analytics
