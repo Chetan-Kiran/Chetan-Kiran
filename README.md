@@ -10,13 +10,13 @@ Java Full Stack Developer • AI Enthusiast • System Design Learner
 
 </p>
 
----
+
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Chetan-Kiran/Chetan-Kiran/main/github-header-banner.png" width="100%">
 </p>
 
----
+
 
 ## 🚀 About Me
 
@@ -28,7 +28,7 @@ Java Full Stack Developer • AI Enthusiast • System Design Learner
 
 ⚡ Building projects beyond simple CRUD applications
 
----
+
 
 ## 💻 Tech Stack
 
@@ -56,9 +56,9 @@ Java Full Stack Developer • AI Enthusiast • System Design Learner
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chetan-kiran&theme=tokyo-night)]()
 
----
 
-## 📫 Connect With Me
+
+## CONNECT WITH ME
 
 <div align="center">
   <p>
@@ -75,5 +75,3 @@ Java Full Stack Developer • AI Enthusiast • System Design Learner
     </a>
   </p>
 </div>
-
----
