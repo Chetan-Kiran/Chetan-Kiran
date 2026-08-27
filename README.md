@@ -60,16 +60,20 @@ Java Full Stack Developer • AI Enthusiast • System Design Learner
 
 ## 📫 Connect With Me
 
-💼 LinkedIn
-
-https://www.linkedin.com/in/chetan-kiran-b7263731b
-
-🌐 Portfolio
-
-https://chetankiran-portfolio.netlify.app/
-
-📧 Email
-
-chetankiranstd@gmail.com
+<div align="center">
+  <p>
+    <a href="https://www.linkedin.com/in/chetan-kiran-b7263731b" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="52" height="52" style="vertical-align: middle; margin: 0 10px;" />
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://chetankiran-portfolio.netlify.app/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=netlify" alt="Portfolio" width="52" height="52" style="vertical-align: middle; margin: 0 10px;" />
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="mailto:chetankiranstd@gmail.com">
+      <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="52" height="52" style="vertical-align: middle; margin: 0 10px;" />
+    </a>
+  </p>
+</div>
 
 ---
