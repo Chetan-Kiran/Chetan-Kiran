@@ -2,8 +2,8 @@ name: GitHub 3D Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight
-  workflow_dispatch:     # Allows manual trigger from Actions tab
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   github-metrics:
@@ -19,5 +19,5 @@ jobs:
           template: classic
           base: ""
           filename: github-3d-contrib.svg
-          plugin_isometric: yes
-          plugin_isometric_year: current
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
