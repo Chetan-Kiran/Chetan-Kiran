@@ -53,15 +53,10 @@ Java Full Stack Developer • AI Enthusiast • System Design Learner
 
 
 ## 📈 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chetan-Kiran&theme=tokyo-night&hide_border=true" alt="GitHub Streak" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chetan-Kiran&show_icons=true&theme=tokyo-night&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan-Kiran&layout=compact&theme=tokyo-night&hide_border=true" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/Chetan-Kiran/Chetan-Kiran/main/profile-3d-contrib/profile-night-view.svg" alt="3D Profile Graph" />
 </p>
-
 
 ## CONNECT WITH ME
 
