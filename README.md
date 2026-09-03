@@ -55,7 +55,7 @@ Java Full Stack Developer • AI Enthusiast • System Design Learner
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Chetan-Kiran/Chetan-Kiran/main/profile-3d-contrib/profile-night-view.svg" alt="3D Profile Graph" />
+  <img src="https://raw.githubusercontent.com/Chetan-Kiran/Chetan-Kiran/main/github-3d-contrib.svg" alt="3D Isometric Contribution City" />
 </p>
 
 ## CONNECT WITH ME
