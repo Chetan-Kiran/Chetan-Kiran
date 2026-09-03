@@ -55,7 +55,7 @@ Java Full Stack Developer • AI Enthusiast • System Design Learner
 ## 📈 GitHub Analytics
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chetan-kiran&theme=tokyo-night)]()
-
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chetan-Kiran&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## CONNECT WITH ME
